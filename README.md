@@ -1,4 +1,4 @@
 # git-basic-command
 
-Let's learn together 
+Let's learn git and github
 
